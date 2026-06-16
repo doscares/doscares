@@ -13,6 +13,8 @@
 
 ### 🌐 Sobre Mí / Overview
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7F5&width=435&lines=i+love;Frutiger+Aero+%3A3)](https://git.io/typing-svg)
+
 ¡Hola! Bienvenido a mi entorno digital. Soy un desarrollador enfocado en la creación de software, interfaces interactivas y automatización. Me apasiona explorar la intersección entre la tecnología moderna y las estéticas visuales de la era digital clásica.
 
 - 🐟 **Enfoque:** Desarrollo de aplicaciones, lógica de software y optimización de sistemas.
