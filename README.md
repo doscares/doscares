@@ -39,8 +39,8 @@ Para lograr que los proyectos funcionen con la mayor fluidez posible, utilizo un
 ### 🌊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noxtope&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de Noxtope" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtope&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más usados por Noxtope" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noxtope-git&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de Noxtope" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtope-git&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más usados por Noxtope" height="160" />
 </div>
 
 <br>
